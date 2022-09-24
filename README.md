@@ -10,5 +10,5 @@ HOSPEDAGEM DO SITE :  https://lnkd.in/dvRqE5yH
 - CSS
 - GIT E GIHUB
 # Contatos:
-- Email: gscardazi@gmail.com
+- Email: gscardazi@hotmail.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
