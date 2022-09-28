@@ -8,7 +8,7 @@ HOSPEDAGEM DO SITE :  https://lnkd.in/dvRqE5yH
 # Tecnologias :
 - HTML
 - CSS
-- GIT E GIHUB
+- GIT E GITHUB
 # Contatos:
 - Email: gscardazi@hotmail.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
