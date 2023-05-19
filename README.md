@@ -1,6 +1,6 @@
-# SCARCOFFE
+# SCARCOFFE: O café que viaja além do espaço-tempo
  
-<h3>Um cardápio de um café Estelar... Projeto desenvolvido na semana Explorer,cujo objetivo foi a criação de um cardápio digital.</h3>
+<h2>Projeto desenvolvido durante a semana Explorer,cujo objetivo foi a criação de um cardápio usando HTML e CSS.</h2>
 
 ![pt](pt.png)
 
