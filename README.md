@@ -1,6 +1,6 @@
-# SCARCOFFE: O café que viaja além do espaço-tempo
+# SCARCOFFE: O café que viaja além do espaço-tempo!!
  
-<h2>Projeto desenvolvido durante a semana Explorer,cujo objetivo foi a criação de um cardápio usando HTML e CSS.</h2>
+<h2>Durante a semana da maratona  Explorer, um evento promovido pela RocketSeat, desenvolvi um projeto chamado de "Cardápio Estelar" utilizando HTML e CSS. Venha conferir os preços  e aproveite para experimentar a torta Marciana!!!</h2>
 
 ![pt](pt.png)
 
