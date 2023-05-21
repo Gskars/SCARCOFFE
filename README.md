@@ -12,5 +12,5 @@
 - CSS
 - GIT E GITHUB
 # Contatos:
-- Email: guiscardazi.dev@outlook.com
+- Email: gscardazi.dev@outlook.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
